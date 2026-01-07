@@ -46,7 +46,8 @@ public class Program
         //}
       // Console.ReadLine();
 
-
+        //test change in github.com
+        
         var builder = WebApplication.CreateBuilder(args);
 
         // var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
@@ -93,5 +94,6 @@ public class Program
 
 
 } // end of class Program
+
 
 
